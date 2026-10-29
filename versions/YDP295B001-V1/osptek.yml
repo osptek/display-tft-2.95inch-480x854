@@ -1,0 +1,10 @@
+id: YDP295B001-V1
+category: displays
+size: "2.95"
+panel: tft
+resolution: 480x854
+interface: [mipi, rgb]
+driver: ST7701S
+touch: null
+outline: 42.70 x 74.7 mm
+active_area: 36.72 x 74.7 mm
