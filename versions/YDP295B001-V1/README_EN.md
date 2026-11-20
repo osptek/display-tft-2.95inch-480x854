@@ -31,7 +31,7 @@
 | Type | TFT |
 | Resolution | 480×854 |
 | Outline | 42.70 x 74.7 x 2.1 mm |
-| Active area | 36.72 x 74.7 mm |
+| Active area | 36.72 x 65.28 mm |
 | Interface | MIPI/RGB |
 | Driver IC | ST7701S |
 | Touch IC | — |
